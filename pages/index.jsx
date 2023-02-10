@@ -5,7 +5,7 @@ function index() {
   return (
     <>
       <div>
-        <p>hello woeld</p>
+        <p>hello world</p>
       </div>
       <form action="">
         <div>
