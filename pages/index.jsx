@@ -7,7 +7,7 @@ function index() {
       <div>
         <p>hello world</p>
       </div>
-      <form action="">
+      <form>
         <div>
           <input
             type="text"
