@@ -1,4 +1,3 @@
-import Test from "../components/Test";
 // how to import conponents in next js
 // how to call a function in next js
 function index() {
@@ -42,7 +41,6 @@ function index() {
           Submit
         </button>
       </form>
-      <Test name="baby" />
     </>
   );
 }
